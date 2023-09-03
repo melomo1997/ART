@@ -1,0 +1,60 @@
+h1{
+    color: green;
+    background-color: palegreen;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    font-style:italic ;
+}
+
+ p{
+    
+    text-align: center;
+    font-style: italic;
+    
+ }
+
+ #info{
+
+    background-color: rgb(127, 255, 212, 0.6);
+ }
+
+ 
+ body{
+
+    background-image: url(../images/backbild.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200vh;
+ }
+
+ img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+   box-shadow: 10% black;
+
+ }
+
+ img{
+
+    height: 500px;
+    width: 400px;
+    margin: 30px;
+    padding: 5px;
+   
+ }
+ button{
+    border-radius: 20px;
+    border: none;
+    font-size: 16px;
+    font-weight: bolder;
+    line-height: 2;
+    background-color:palegreen;
+    color: green;
+    padding: 5px;
+ }
